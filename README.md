@@ -12,3 +12,5 @@ Version 1
 - [] Task 2
 - [x] Task 3
 - [] Task 4
+
+@adonay1203 :smiley: :+1:
