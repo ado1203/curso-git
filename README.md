@@ -15,7 +15,7 @@ Version 1
 
 @adonay1203 :smiley: :+1:
 
-[![Prueba de video](https://i.pinimg.com/236x/79/77/0e/79770e7e880657e7e81fdd6673437c1c.jpg)](https://www.youtube.com/watch?v=ng7mlrKRpmA&t=1s "Link Title")
+https://user-images.githubusercontent.com/67987517/143621636-a7095678-5736-4eb6-8765-90fdbb2fe40a.mp4
 
 <details><summary>CLICK ME</summary>
 <p>
