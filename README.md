@@ -14,3 +14,15 @@ Version 1
 - [] Task 4
 
 @adonay1203 :smiley: :+1:
+
+[![Prueba de video](https://i.pinimg.com/236x/79/77/0e/79770e7e880657e7e81fdd6673437c1c.jpg)](https://www.youtube.com/watch?v=ng7mlrKRpmA&t=1s "Link Title")
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+```bash
+    echo "Hello"
+```
+</p>
+</details>
