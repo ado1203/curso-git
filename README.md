@@ -9,9 +9,9 @@ Version 1
 <!-- GitHub Markdown -->
 
 - [x] Task 1
-- [] Task 2
+- [ ] Task 2
 - [x] Task 3
-- [] Task 4
+- [ ] Task 4
 
 @adonay1203 :smiley: :+1:
 
